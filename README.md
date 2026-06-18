@@ -10,4 +10,3 @@ A personal webpage about a journey into embedded systems. Learning about low lev
 
 
 holy@fuck.computer
-```
